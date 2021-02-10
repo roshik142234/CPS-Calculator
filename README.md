@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# CPS calculator
+Measures how fast you click per seconds. It shows how many seconds and how many clicks you have clicked.
